@@ -1,6 +1,6 @@
 buildscript {
     ext {
-        springBootVersion = '1.5.4.RELEASE'
+        springBootVersion = '1.5.11.RELEASE'
         springCloudConnectorsVersion = '1.2.4.RELEASE'
     }
 
@@ -11,19 +11,25 @@ buildscript {
     }
 
     dependencies {
-        classpath("org.springframework.boot:spring-boot-gradle-plugin:2.0.2.RELEASE")
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+        classpath("org.springframework.boot:spring-boot-devtools:${springBootVersion}")
     }
 }
 
-apply plugin: 'java'
-apply plugin: 'idea'
-apply plugin: 'org.springframework.boot'
-apply plugin: 'io.spring.dependency-management'
 
-version = '1.0'
+task wrapper(type: Wrapper) {
+   gradleVersion = '4.6'
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse-wtp'
+apply plugin: 'org.springframework.boot'
+
+version = '1.0.0'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
+
 
 repositories {
     mavenCentral()
@@ -77,11 +83,11 @@ dependencies {
     // Jaeger specific dependencies.
     compile "io.jaegertracing:jaeger-core:0.27.0"
 }
-springBoot {
-    mainClassName = "org.cloudfoundry.samples.music.Application"
-}
 
 jar {
     baseName = "spring-music"
-    version = "" // omit the version from the war file name
+    version = version
+//    manifest {
+//    	attributes('Main-Class': 'SpringEchoApp')
+//    }
 }
