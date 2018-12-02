@@ -8,6 +8,8 @@ image:
   repository: demoaksacr2.azurecr.io/spring-music-azure
   tag: latest
   pullPolicy: IfNotPresent
+  #kubectl create secret docker-registry acr-auth --docker-server demoaksacr2.azurecr.io --docker-username demoaksacr2 --docker-password
+  pullSecret: acr-auth
 
 nameOverride: ""
 fullnameOverride: ""
