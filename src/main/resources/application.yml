@@ -1,4 +1,3 @@
-
 ---
 spring:
   jpa:
@@ -8,11 +7,3 @@ spring:
 management:
   security:
     enabled: false
-
-endpoints:
-  health:
-    sensitive: false
-  restart:
-    enabled: true
-  shutdown:
-    enabled: true
