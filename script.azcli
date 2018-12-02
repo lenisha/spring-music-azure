@@ -8,7 +8,7 @@ az acr build --registry demoaksacr --image spring-music-azure:latest .
 export ACR_PASS=$(az acr credential show --name demoaksacr --query "passwords[0].value" --output tsv)
 az container create -g springdemo -n springmusic --image demoaksacr.azurecr.io/spring-music-azure:latest \
 --dns-name-label springmusic-demo --ports 8080 --registry-username demoaksacr --registry-password $ACR_PASS \
---restart-policy OnFailure
+--restart-policy OnFailure --memory 4 --cpu2
 
 #Logs
 az container logs -g springdemo -n springmusic
@@ -16,3 +16,8 @@ az container logs -g springdemo -n springmusic
 az container show -g springdemo -n springmusic --query instanceView.state
 
 curl -X POST springmusic-demo.eastus.azurecontainer.io:8080/shutdown
+
+# Kubectl add secret o ACR
+kubectl create secret docker-registry acr-auth --docker-server demoaksacr.azurecr.io --docker-username demoaksacr --docker-password $ACR_PASS
+
+helm upgrage --recreat-pods --wait spring-music spring-music/
