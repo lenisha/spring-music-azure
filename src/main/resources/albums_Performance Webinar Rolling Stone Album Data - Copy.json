@@ -1,0 +1,3502 @@
+[
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Beatles",
+   "title": "Sgt. Pepper's Lonely Hearts Club Band",
+   "releaseYear": 1967,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Beach Boys",
+   "title": "Pet Sounds",
+   "releaseYear": 1966,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Beatles",
+   "title": "Revolver",
+   "releaseYear": 1966,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bob Dylan",
+   "title": "Highway 61 Revisited",
+   "releaseYear": 1965,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Beatles",
+   "title": "Rubber Soul",
+   "releaseYear": 1965,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Marvin Gaye",
+   "title": "What's Going On",
+   "releaseYear": 1971,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Rolling Stones",
+   "title": "Exile on Main St.",
+   "releaseYear": 1972,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Clash",
+   "title": "London Calling",
+   "releaseYear": 1979,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bob Dylan",
+   "title": "Blonde on Blonde",
+   "releaseYear": 1966,
+   "genre": "Rock, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Beatles",
+   "title": "The Beatles (\"The White Album\")",
+   "releaseYear": 1968,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Elvis Presley",
+   "title": "The Sun Sessions",
+   "releaseYear": 1976,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Miles Davis",
+   "title": "Kind of Blue",
+   "releaseYear": 1959,
+   "genre": "Jazz"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Velvet Underground",
+   "title": "The Velvet Underground & Nico",
+   "releaseYear": 1967,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Beatles",
+   "title": "Abbey Road",
+   "releaseYear": 1969,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Jimi Hendrix Experience",
+   "title": "Are You Experienced",
+   "releaseYear": 1967,
+   "genre": "Rock, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bob Dylan",
+   "title": "Blood on the Tracks",
+   "releaseYear": 1975,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Nirvana",
+   "title": "Nevermind",
+   "releaseYear": 1991,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bruce Springsteen",
+   "title": "Born to Run",
+   "releaseYear": 1975,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Van Morrison",
+   "title": "Astral Weeks",
+   "releaseYear": 1968,
+   "genre": "Jazz, Rock, Blues, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Michael Jackson",
+   "title": "Thriller",
+   "releaseYear": 1982,
+   "genre": "Funk / Soul, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Chuck Berry",
+   "title": "The Great Twenty_Eight",
+   "releaseYear": 1982,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Robert Johnson",
+   "title": "The Complete Recordings",
+   "releaseYear": 1990,
+   "genre": "Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "John Lennon / Plastic Ono Band",
+   "title": "John Lennon/Plastic Ono Band",
+   "releaseYear": 1970,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Stevie Wonder",
+   "title": "Innervisions",
+   "releaseYear": 1973,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "James Brown",
+   "title": "Live at the Apollo, 1962",
+   "releaseYear": 1963,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Fleetwood Mac",
+   "title": "Rumours",
+   "releaseYear": 1977,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "U2",
+   "title": "The Joshua Tree",
+   "releaseYear": 1987,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Who",
+   "title": "Who's Next",
+   "releaseYear": 1971,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Led Zeppelin",
+   "title": "Led Zeppelin",
+   "releaseYear": 1969,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Joni Mitchell",
+   "title": "Blue",
+   "releaseYear": 1971,
+   "genre": "Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bob Dylan",
+   "title": "Bringing It All Back Home",
+   "releaseYear": 1965,
+   "genre": "Rock, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Rolling Stones",
+   "title": "Let It Bleed",
+   "releaseYear": 1969,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Ramones",
+   "title": "Ramones",
+   "releaseYear": 1976,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Band",
+   "title": "Music From Big Pink",
+   "releaseYear": 1968,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "David Bowie",
+   "title": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+   "releaseYear": 1972,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Carole King",
+   "title": "Tapestry",
+   "releaseYear": 1971,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Eagles",
+   "title": "Hotel California",
+   "releaseYear": 1976,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Muddy Waters",
+   "title": "The Anthology",
+   "releaseYear": 2001,
+   "genre": "Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Beatles",
+   "title": "Please Please Me",
+   "releaseYear": 1963,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Love",
+   "title": "Forever Changes",
+   "releaseYear": 1967,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Sex Pistols",
+   "title": "Never Mind the Bollocks Here's the Sex Pistols",
+   "releaseYear": 1977,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Doors",
+   "title": "The Doors",
+   "releaseYear": 1967,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Pink Floyd",
+   "title": "The Dark Side of the Moon",
+   "releaseYear": 1973,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Patti Smith",
+   "title": "Horses",
+   "releaseYear": 1975,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Band",
+   "title": "The Band (\"The Brown Album\")",
+   "releaseYear": 1969,
+   "genre": "Classical, Stage & Screen"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bob Marley & The Wailers",
+   "title": "Legend: The Best of Bob Marley and The Wailers",
+   "releaseYear": 1984,
+   "genre": "Reggae"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "John Coltrane",
+   "title": "A Love Supreme",
+   "releaseYear": 1965,
+   "genre": "Jazz"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Public Enemy",
+   "title": "It Takes a Nation of Millions to Hold Us Back",
+   "releaseYear": 1988,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Allman Brothers Band",
+   "title": "At Fillmore East",
+   "releaseYear": 1971,
+   "genre": "Rock, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Little Richard",
+   "title": "Here's Little Richard",
+   "releaseYear": 1957,
+   "genre": "Rock, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Simon & Garfunkel",
+   "title": "Bridge Over Troubled Water",
+   "releaseYear": 1970,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Al Green",
+   "title": "Greatest Hits",
+   "releaseYear": 1975,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Beatles",
+   "title": "Meet The Beatles!",
+   "releaseYear": 1964,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Ray Charles",
+   "title": "The Birth of Soul",
+   "releaseYear": 1991,
+   "genre": "Jazz, Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Jimi Hendrix Experience",
+   "title": "Electric Ladyland",
+   "releaseYear": 1968,
+   "genre": "Rock, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Elvis Presley",
+   "title": "Elvis Presley",
+   "releaseYear": 1956,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Stevie Wonder",
+   "title": "Songs in the Key of Life",
+   "releaseYear": 1976,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Rolling Stones",
+   "title": "Beggars Banquet",
+   "releaseYear": 1968,
+   "genre": "Rock, Funk / Soul, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Creedence Clearwater Revival",
+   "title": "Chronicle: The 20 Greatest Hits",
+   "releaseYear": 1976,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Captain Beefheart & His Magic Band",
+   "title": "Trout Mask Replica",
+   "releaseYear": 1969,
+   "genre": "Rock, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Sly & The Family Stone",
+   "title": "Greatest Hits",
+   "releaseYear": 1970,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Guns N' Roses",
+   "title": "Appetite for Destruction",
+   "releaseYear": 1987,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "U2",
+   "title": "Achtung Baby",
+   "releaseYear": 1991,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Rolling Stones",
+   "title": "Sticky Fingers",
+   "releaseYear": 1971,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Phil Spector",
+   "title": "Back to Mono (1958-1969)",
+   "releaseYear": 1991,
+   "genre": "Rock, Funk / Soul, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Van Morrison",
+   "title": "Moondance",
+   "releaseYear": 1970,
+   "genre": "Jazz, Rock, Funk / Soul, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Radiohead",
+   "title": "Kid A",
+   "releaseYear": 2000,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Michael Jackson",
+   "title": "Off the Wall",
+   "releaseYear": 1979,
+   "genre": "Funk / Soul, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Led Zeppelin",
+   "title": "[Led Zeppelin IV]",
+   "releaseYear": 1971,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Billy Joel",
+   "title": "The Stranger",
+   "releaseYear": 1977,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Paul Simon",
+   "title": "Graceland",
+   "releaseYear": 1986,
+   "genre": "Jazz, Rock, Funk / Soul, Pop, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Curtis Mayfield",
+   "title": "Superfly",
+   "releaseYear": 1972,
+   "genre": "Funk / Soul, Stage & Screen"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Led Zeppelin",
+   "title": "Physical Graffiti",
+   "releaseYear": 1975,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Neil Young",
+   "title": "After the Gold Rush",
+   "releaseYear": 1970,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "James Brown",
+   "title": "Star Time",
+   "releaseYear": 1991,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Prince and the Revolution",
+   "title": "Purple Rain",
+   "releaseYear": 1984,
+   "genre": "Electronic, Rock, Funk / Soul, Stage & Screen"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "AC/DC",
+   "title": "Back in Black",
+   "releaseYear": 1980,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Otis Redding",
+   "title": "Otis Blue: Otis Redding Sings Soul",
+   "releaseYear": 1965,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Led Zeppelin",
+   "title": "Led Zeppelin II",
+   "releaseYear": 1969,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "John Lennon",
+   "title": "Imagine",
+   "releaseYear": 1971,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Clash",
+   "title": "The Clash",
+   "releaseYear": 1977,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Neil Young",
+   "title": "Harvest",
+   "releaseYear": 1972,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Jimi Hendrix Experience",
+   "title": "Axis: Bold as Love",
+   "releaseYear": 1967,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Aretha Franklin",
+   "title": "I Never Loved a Man the Way I Love You",
+   "releaseYear": 1967,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Aretha Franklin",
+   "title": "Lady Soul",
+   "releaseYear": 1968,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bruce Springsteen",
+   "title": "Born in the U.S.A.",
+   "releaseYear": 1984,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Pink Floyd",
+   "title": "The Wall",
+   "releaseYear": 1979,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Johnny Cash",
+   "title": "At Folsom Prison",
+   "releaseYear": 1968,
+   "genre": "Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Dusty Springfield",
+   "title": "Dusty in Memphis",
+   "releaseYear": 1969,
+   "genre": "Rock, Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Stevie Wonder",
+   "title": "Talking Book",
+   "releaseYear": 1972,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Elton John",
+   "title": "Goodbye Yellow Brick Road",
+   "releaseYear": 1973,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Buddy Holly",
+   "title": "20 Golden Greats",
+   "releaseYear": 1978,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Prince",
+   "title": "Sign \"Peace\" the Times",
+   "releaseYear": 1987,
+   "genre": "Rock, Reggae"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Hank Williams",
+   "title": "40 Greatest Hits",
+   "releaseYear": 1984,
+   "genre": "Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Miles Davis",
+   "title": "Bitches Brew",
+   "releaseYear": 1970,
+   "genre": "Jazz"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Who",
+   "title": "Tommy",
+   "releaseYear": 1969,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bob Dylan",
+   "title": "The Freewheelin' Bob Dylan",
+   "releaseYear": 1963,
+   "genre": "Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Elvis Costello",
+   "title": "This Year's Model",
+   "releaseYear": 1978,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Sly & The Family Stone",
+   "title": "There's a Riot Goin' On",
+   "releaseYear": 1971,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Zombies",
+   "title": "Odessey and Oracle",
+   "releaseYear": 1968,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Frank Sinatra",
+   "title": "In the Wee Small Hours",
+   "releaseYear": 1955,
+   "genre": "Jazz, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Cream",
+   "title": "Fresh Cream",
+   "releaseYear": 1966,
+   "genre": "Rock, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "John Coltrane",
+   "title": "Giant Steps",
+   "releaseYear": 1959,
+   "genre": "Jazz"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "James Taylor",
+   "title": "Sweet Baby James",
+   "releaseYear": 1970,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Ray Charles",
+   "title": "Modern Sounds in Country and Western Music",
+   "releaseYear": 1962,
+   "genre": "Funk / Soul, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Ramones",
+   "title": "Rocket to Russia",
+   "releaseYear": 1977,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Sam Cooke",
+   "title": "Portrait of a Legend 1951-1964",
+   "releaseYear": 2003,
+   "genre": "Latin, Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "David Bowie",
+   "title": "Hunky Dory",
+   "releaseYear": 1971,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Rolling Stones",
+   "title": "Aftermath",
+   "releaseYear": 1966,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Velvet Underground",
+   "title": "Loaded",
+   "releaseYear": 1970,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Radiohead",
+   "title": "The Bends",
+   "releaseYear": 1995,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Mamas and the Papas",
+   "title": "If You Can Believe Your Eyes and Ears",
+   "releaseYear": 1966,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Joni Mitchell",
+   "title": "Court and Spark",
+   "releaseYear": 1974,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Cream",
+   "title": "Disraeli Gears",
+   "releaseYear": 1967,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Who",
+   "title": "The Who Sell Out",
+   "releaseYear": 1967,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Rolling Stones",
+   "title": "Out of Our Heads",
+   "releaseYear": 1965,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Derek and the Dominos",
+   "title": "Layla and Other Assorted Love Songs",
+   "releaseYear": 1970,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Kanye West",
+   "title": "Late Registration",
+   "releaseYear": 2005,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Etta James",
+   "title": "At Last!",
+   "releaseYear": 1960,
+   "genre": "Funk / Soul, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Byrds",
+   "title": "Sweetheart of the Rodeo",
+   "releaseYear": 1968,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Sly & The Family Stone",
+   "title": "Stand!",
+   "releaseYear": 1969,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Various Artists",
+   "title": "The Harder They Come",
+   "releaseYear": 1972,
+   "genre": "Reggae,�Pop,�Folk, World, & Country,�Stage & Screen"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Run D.M.C.",
+   "title": "Raising Hell",
+   "releaseYear": 1986,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Moby Grape",
+   "title": "Moby Grape",
+   "releaseYear": 1967,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Janis Joplin",
+   "title": "Pearl",
+   "releaseYear": 1971,
+   "genre": "Rock, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Wailers",
+   "title": "Catch a Fire",
+   "releaseYear": 1973,
+   "genre": "Reggae"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Byrds",
+   "title": "Younger Than Yesterday",
+   "releaseYear": 1967,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Iggy and The Stooges",
+   "title": "Raw Power",
+   "releaseYear": 1973,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Talking Heads",
+   "title": "Remain in Light",
+   "releaseYear": 1980,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Television",
+   "title": "Marquee Moon",
+   "releaseYear": 1977,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Black Sabbath",
+   "title": "Paranoid",
+   "releaseYear": 1970,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Various Artists",
+   "title": "Saturday Night Fever: The Original Movie Sound Track",
+   "releaseYear": 1977,
+   "genre": "Electronic,�Stage & Screen"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bruce Springsteen",
+   "title": "The Wild, the Innocent & the E Street Shuffle",
+   "releaseYear": 1973,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Notorious B.I.G.",
+   "title": "Ready to Die",
+   "releaseYear": 1994,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Pavement",
+   "title": "Slanted and Enchanted",
+   "releaseYear": 1992,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Elton John",
+   "title": "Greatest Hits",
+   "releaseYear": 1974,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Replacements",
+   "title": "Tim",
+   "releaseYear": 1985,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Dr. Dre",
+   "title": "The Chronic",
+   "releaseYear": 1992,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Meters",
+   "title": "Rejuvenation",
+   "releaseYear": 1974,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Blondie",
+   "title": "Parallel Lines",
+   "releaseYear": 1978,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "B.B. King",
+   "title": "Live at the Regal",
+   "releaseYear": 1965,
+   "genre": "Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Phil Spector",
+   "title": "A Christmas Gift for You From Phil Spector",
+   "releaseYear": 1963,
+   "genre": "Rock, Funk / Soul, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Dr. John, the Night Tripper",
+   "title": "Gris-Gris",
+   "releaseYear": 1968,
+   "genre": "Jazz, Rock, Funk / Soul, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "N.W.A",
+   "title": "Straight Outta Compton",
+   "releaseYear": 1988,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Steely Dan",
+   "title": "Aja",
+   "releaseYear": 1977,
+   "genre": "Jazz, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Jefferson Airplane",
+   "title": "Surrealistic Pillow",
+   "releaseYear": 1967,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Crosby, Stills, Nash & Young",
+   "title": "Deja vu",
+   "releaseYear": 1970,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Led Zeppelin",
+   "title": "Houses of the Holy",
+   "releaseYear": 1973,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Santana",
+   "title": "Santana",
+   "releaseYear": 1969,
+   "genre": "Rock, Latin, Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bruce Springsteen",
+   "title": "Darkness on the Edge of Town",
+   "releaseYear": 1978,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Arcade Fire",
+   "title": "Funeral",
+   "releaseYear": 2004,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The B 52's",
+   "title": "The B 52's / Play Loud",
+   "releaseYear": 1979,
+   "genre": "Electronic, Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "A Tribe Called Quest",
+   "title": "The Low End Theory",
+   "releaseYear": 1991,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Howlin' Wolf",
+   "title": "Moanin' in the Moonlight",
+   "releaseYear": 1958,
+   "genre": "Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Pretenders",
+   "title": "Pretenders",
+   "releaseYear": 1980,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Beastie Boys",
+   "title": "Paul's Boutique",
+   "releaseYear": 1989,
+   "genre": "Hip Hop, Rock, Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Joy Division",
+   "title": "Closer",
+   "releaseYear": 1980,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Elton John",
+   "title": "Captain Fantastic and the Brown Dirt Cowboy",
+   "releaseYear": 1975,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "KISS",
+   "title": "Alive!",
+   "releaseYear": 1975,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "T. Rex",
+   "title": "Electric Warrior",
+   "releaseYear": 1971,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Otis Redding",
+   "title": "The Dock of the Bay",
+   "releaseYear": 1968,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Radiohead",
+   "title": "OK Computer",
+   "releaseYear": 1997,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Prince",
+   "title": "1999",
+   "releaseYear": 1982,
+   "genre": "Funk / Soul, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Linda Ronstadt",
+   "title": "The Very Best of Linda Ronstadt",
+   "releaseYear": 2002,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Marvin Gaye",
+   "title": "Let's Get It On",
+   "releaseYear": 1973,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Elvis Costello & The Attractions",
+   "title": "Imperial Bedroom",
+   "releaseYear": 1982,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Metallica",
+   "title": "Master of Puppets",
+   "releaseYear": 1986,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Elvis Costello",
+   "title": "My Aim Is True",
+   "releaseYear": 1977,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bob Marley & The Wailers",
+   "title": "Exodus",
+   "releaseYear": 1977,
+   "genre": "Reggae"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Who",
+   "title": "Live at Leeds",
+   "releaseYear": 1970,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Byrds",
+   "title": "The Notorious Byrd Brothers",
+   "releaseYear": 1968,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Rod Stewart",
+   "title": "Every Picture Tells a Story",
+   "releaseYear": 1971,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Todd Rundgren",
+   "title": "Something/Anything?",
+   "releaseYear": 1972,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bob Dylan",
+   "title": "Desire",
+   "releaseYear": 1976,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Carpenters",
+   "title": "Close to You",
+   "releaseYear": 1970,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Aerosmith",
+   "title": "Rocks",
+   "releaseYear": 1976,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Funkadelic",
+   "title": "One Nation Under a Groove",
+   "releaseYear": 1978,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Curtis Mayfield and The Impressions",
+   "title": "The Anthology: 1961-1977",
+   "releaseYear": 1992,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "ABBA",
+   "title": "The Definitive Collection",
+   "releaseYear": 2001,
+   "genre": "Electronic, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Rolling Stones",
+   "title": "The Rolling Stones, Now!",
+   "releaseYear": 1965,
+   "genre": "Rock, Blues, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bob Marley & The Wailers",
+   "title": "Natty Dread",
+   "releaseYear": 1974,
+   "genre": "Reggae"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Fleetwood Mac",
+   "title": "Fleetwood Mac",
+   "releaseYear": 1975,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Willie Nelson",
+   "title": "Red Headed Stranger",
+   "releaseYear": 1975,
+   "genre": "Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Madonna",
+   "title": "The Immaculate Collection",
+   "releaseYear": 1990,
+   "genre": "Electronic, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Stooges",
+   "title": "The Stooges",
+   "releaseYear": 1969,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Sly & The Family Stone",
+   "title": "Fresh",
+   "releaseYear": 1973,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Peter Gabriel",
+   "title": "So",
+   "releaseYear": 1986,
+   "genre": "Electronic, Rock, Funk / Soul, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Buffalo Springfield",
+   "title": "Buffalo Springfield Again",
+   "releaseYear": 1967,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Quicksilver Messenger Service",
+   "title": "Happy Trails",
+   "releaseYear": 1969,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Elvis Presley",
+   "title": "From Elvis in Memphis",
+   "releaseYear": 1969,
+   "genre": "Rock, Funk / Soul, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Stooges",
+   "title": "Fun House",
+   "releaseYear": 1970,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Flying Burrito Brothers",
+   "title": "The Gilded Palace of Sin",
+   "releaseYear": 1969,
+   "genre": "Rock, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Green Day",
+   "title": "Dookie",
+   "releaseYear": 1994,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Lou Reed",
+   "title": "Transformer",
+   "releaseYear": 1972,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "John Mayall & The Bluesbreakers",
+   "title": "Blues Breakers With Eric Clapton (\"The Beano Album\")",
+   "releaseYear": 1966,
+   "genre": "Rock,�Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Various Artists",
+   "title": "Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968",
+   "releaseYear": 1998,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "R.E.M.",
+   "title": "Murmur",
+   "releaseYear": 1983,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Little Walter",
+   "title": "The Best of Little Walter",
+   "releaseYear": 1967,
+   "genre": "Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Strokes",
+   "title": "Is This It",
+   "releaseYear": 2001,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "AC/DC",
+   "title": "Highway to Hell",
+   "releaseYear": 1979,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Nine Inch Nails",
+   "title": "The Downward Spiral",
+   "releaseYear": 1994,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Simon & Garfunkel",
+   "title": "Parsley, Sage, Rosemary and Thyme",
+   "releaseYear": 1966,
+   "genre": "Rock, Pop, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Michael Jackson",
+   "title": "Bad",
+   "releaseYear": 1987,
+   "genre": "Funk / Soul, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bob Dylan",
+   "title": "Modern Times",
+   "releaseYear": 2006,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Cream",
+   "title": "Wheels of Fire",
+   "releaseYear": 1968,
+   "genre": "Rock, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Prince",
+   "title": "Dirty Mind",
+   "releaseYear": 1980,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Santana",
+   "title": "Abraxas",
+   "releaseYear": 1970,
+   "genre": "Rock, Latin"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Cat Stevens",
+   "title": "Tea for the Tillerman",
+   "releaseYear": 1970,
+   "genre": "Rock, Stage & Screen"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Pearl Jam",
+   "title": "Ten",
+   "releaseYear": 1991,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Neil Young & Crazy Horse",
+   "title": "Everybody Knows This Is Nowhere",
+   "releaseYear": 1969,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Pink Floyd",
+   "title": "Wish You Were Here",
+   "releaseYear": 1975,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Pavement",
+   "title": "Crooked Rain Crooked Rain",
+   "releaseYear": 1994,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Rolling Stones",
+   "title": "Tattoo You",
+   "releaseYear": 1981,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Ike & Tina Turner",
+   "title": "Proud Mary: The Best of Ike and Tina Turner",
+   "releaseYear": 1991,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "New York Dolls",
+   "title": "New York Dolls",
+   "releaseYear": 1973,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bo Diddley",
+   "title": "Bo Diddley / Go Bo Diddley",
+   "releaseYear": 1986,
+   "genre": "Rock, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bobby \"Blue\" Bland",
+   "title": "Two Steps From the Blues",
+   "releaseYear": 1961,
+   "genre": "Funk / Soul, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Smiths",
+   "title": "The Queen Is Dead",
+   "releaseYear": 1986,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Beastie Boys",
+   "title": "Licensed to Ill",
+   "releaseYear": 1986,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Meters",
+   "title": "Look-Ka Py Py",
+   "releaseYear": 1970,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "My Bloody Valentine",
+   "title": "Loveless",
+   "releaseYear": 1991,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Professor Longhair",
+   "title": "New Orleans Piano",
+   "releaseYear": 1972,
+   "genre": "Funk / Soul, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "U2",
+   "title": "War",
+   "releaseYear": 1983,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Neil Diamond",
+   "title": "The Neil Diamond Collection",
+   "releaseYear": 1999,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Green Day",
+   "title": "American Idiot",
+   "releaseYear": 2004,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bruce Springsteen",
+   "title": "Nebraska",
+   "releaseYear": 1982,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Pixies",
+   "title": "Doolittle",
+   "releaseYear": 1989,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Eric B. & Rakim",
+   "title": "Paid in Full",
+   "releaseYear": 1987,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Aerosmith",
+   "title": "Toys in the Attic",
+   "releaseYear": 1975,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bonnie Raitt",
+   "title": "Nick of Time",
+   "releaseYear": 1989,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Queen",
+   "title": "A Night at the Opera",
+   "releaseYear": 1975,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Kinks",
+   "title": "The Kink Kronikles",
+   "releaseYear": 1972,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Byrds",
+   "title": "Mr. Tambourine Man",
+   "releaseYear": 1965,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Simon & Garfunkel",
+   "title": "Bookends",
+   "releaseYear": 1968,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Patsy Cline",
+   "title": "The Ultimate Collection",
+   "releaseYear": 2000,
+   "genre": "Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Jackie Wilson",
+   "title": "Mr. Excitement!",
+   "releaseYear": 1992,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Who",
+   "title": "My Generation",
+   "releaseYear": 1965,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Howlin' Wolf",
+   "title": "Howlin' Wolf",
+   "releaseYear": 1962,
+   "genre": "Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Madonna",
+   "title": "Like a Prayer",
+   "releaseYear": 1989,
+   "genre": "Electronic, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Steely Dan",
+   "title": "Can't Buy a Thrill",
+   "releaseYear": 1972,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Replacements",
+   "title": "Let It Be",
+   "releaseYear": 1984,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Run D.M.C.",
+   "title": "Run D.M.C.",
+   "releaseYear": 1984,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Black Sabbath",
+   "title": "Black Sabbath",
+   "releaseYear": 1970,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Eminem",
+   "title": "The Marshall Mathers LP",
+   "releaseYear": 2000,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Jerry Lee Lewis",
+   "title": "All Killer No Filler! The Jerry Lee Lewis Anthology",
+   "releaseYear": 1993,
+   "genre": "Rock, Blues, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Mothers of Invention",
+   "title": "Freak Out!",
+   "releaseYear": 1966,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Grateful Dead",
+   "title": "Live/Dead",
+   "releaseYear": 1969,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Ornette Coleman",
+   "title": "The Shape of Jazz to Come",
+   "releaseYear": 1959,
+   "genre": "Jazz"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "R.E.M.",
+   "title": "Automatic for the People",
+   "releaseYear": 1992,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Jay Z",
+   "title": "Reasonable Doubt",
+   "releaseYear": 1996,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "David Bowie",
+   "title": "Low",
+   "releaseYear": 1977,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Jay Z",
+   "title": "The Blueprint",
+   "releaseYear": 2001,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bruce Springsteen",
+   "title": "The River",
+   "releaseYear": 1980,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Otis Redding",
+   "title": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+   "releaseYear": 1966,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Metallica",
+   "title": "Metallica (\"The Black Album\")",
+   "releaseYear": 1991,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Kraftwerk",
+   "title": "Trans Europa Express",
+   "releaseYear": 1977,
+   "genre": "Electronic"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Whitney Houston",
+   "title": "Whitney Houston",
+   "releaseYear": 1985,
+   "genre": "Funk / Soul, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Kinks",
+   "title": "The Kinks Are The Village Green Preservation Society",
+   "releaseYear": 1968,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Janet",
+   "title": "The Velvet Rope",
+   "releaseYear": 1997,
+   "genre": "Electronic, Funk / Soul, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Willie Nelson",
+   "title": "Stardust",
+   "releaseYear": 1978,
+   "genre": "Pop, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Grateful Dead",
+   "title": "American Beauty",
+   "releaseYear": 1970,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Crosby, Stills & Nash",
+   "title": "Crosby, Stills & Nash",
+   "releaseYear": 1969,
+   "genre": "Rock, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Tracy Chapman",
+   "title": "Tracy Chapman",
+   "releaseYear": 1988,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Grateful Dead",
+   "title": "Workingman's Dead",
+   "releaseYear": 1970,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Ray Charles",
+   "title": "The Genius of Ray Charles",
+   "releaseYear": 1959,
+   "genre": "Jazz, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Blood, Sweat & Tears",
+   "title": "Child Is Father to the Man",
+   "releaseYear": 1968,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Who",
+   "title": "Quadrophenia",
+   "releaseYear": 1973,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Paul Simon",
+   "title": "Paul Simon",
+   "releaseYear": 1972,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Jesus and Mary Chain",
+   "title": "Psychocandy",
+   "releaseYear": 1985,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Rolling Stones",
+   "title": "Some Girls",
+   "releaseYear": 1978,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Beach Boys",
+   "title": "The Beach Boys Today!",
+   "releaseYear": 1965,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Sleater Kinney",
+   "title": "Dig Me Out",
+   "releaseYear": 1997,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Smokey Robinson & The Miracles",
+   "title": "Going to a Go-Go",
+   "releaseYear": 1966,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "LaBelle",
+   "title": "Nightbirds",
+   "releaseYear": 1974,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Eminem",
+   "title": "The Slim Shady LP",
+   "releaseYear": 1999,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Parliament",
+   "title": "Mothership Connection",
+   "releaseYear": 1975,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Janet Jackson",
+   "title": "Rhythm Nation 1814",
+   "releaseYear": 1989,
+   "genre": "Electronic, Hip Hop, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Various",
+   "title": "Anthology of American Folk Music",
+   "releaseYear": 1997,
+   "genre": "Blues, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "David Bowie",
+   "title": "Aladdin Sane",
+   "releaseYear": 1973,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "U2",
+   "title": "All That You Can't Leave Behind",
+   "releaseYear": 2000,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Mary J. Blige",
+   "title": "My Life",
+   "releaseYear": 1994,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Muddy Waters",
+   "title": "Folk Singer",
+   "releaseYear": 1964,
+   "genre": "Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Barry White",
+   "title": "Can't Get Enough",
+   "releaseYear": 1974,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Cars",
+   "title": "The Cars",
+   "releaseYear": 1978,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Stevie Wonder",
+   "title": "Music of My Mind",
+   "releaseYear": 1972,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Al Green",
+   "title": "I'm Still in Love With You",
+   "releaseYear": 1972,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "X",
+   "title": "Los Angeles",
+   "releaseYear": 1980,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Grateful Dead",
+   "title": "Anthem of the Sun",
+   "releaseYear": 1968,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Kinks",
+   "title": "Something Else by The Kinks",
+   "releaseYear": 1967,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Al Green",
+   "title": "Call Me",
+   "releaseYear": 1973,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Talking Heads",
+   "title": "Talking Heads: 77",
+   "releaseYear": 1977,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bob Dylan and the Band",
+   "title": "The Basement Tapes",
+   "releaseYear": 1975,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Velvet Underground",
+   "title": "White Light/White Heat",
+   "releaseYear": 1968,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "MC5",
+   "title": "Kick Out the Jams",
+   "releaseYear": 1969,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Leonard Cohen",
+   "title": "Songs of Love and Hate",
+   "releaseYear": 1970,
+   "genre": "Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Smiths",
+   "title": "Meat Is Murder",
+   "releaseYear": 1985,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Mothers of Invention",
+   "title": "We're Only in It for the Money",
+   "releaseYear": 1968,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Kanye West",
+   "title": "The College Dropout",
+   "releaseYear": 2003,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Weezer",
+   "title": "Weezer (Blue Album)",
+   "releaseYear": 1994,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Black Sabbath",
+   "title": "Master of Reality",
+   "releaseYear": 1971,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Dolly Parton",
+   "title": "Coat of Many Colors",
+   "releaseYear": 1971,
+   "genre": "Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Public Enemy",
+   "title": "Fear of a Black Planet",
+   "releaseYear": 1990,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bob Dylan",
+   "title": "John Wesley Harding",
+   "releaseYear": 1967,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Jeff Buckley",
+   "title": "Grace",
+   "releaseYear": 1994,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Lucinda Williams",
+   "title": "Car Wheels on a Gravel Road",
+   "releaseYear": 1998,
+   "genre": "Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Beck",
+   "title": "Odelay",
+   "releaseYear": 1996,
+   "genre": "Electronic, Hip Hop, Funk / Soul, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Beatles",
+   "title": "A Hard Day's Night",
+   "releaseYear": 1964,
+   "genre": "Rock, Stage & Screen"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Frank Sinatra",
+   "title": "Songs for Swingin' Lovers!",
+   "releaseYear": 1956,
+   "genre": "Jazz, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Creedence Clearwater Revival",
+   "title": "Willy and the Poor Boys",
+   "releaseYear": 1969,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Red Hot Chili Peppers",
+   "title": "Blood Sugar Sex Magik",
+   "releaseYear": 1991,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Various",
+   "title": "The Sun Records Collection",
+   "releaseYear": 1994,
+   "genre": "Rock, Funk / Soul, Blues, Pop, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Jane's Addiction",
+   "title": "Nothing's Shocking",
+   "releaseYear": 1988,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Nirvana",
+   "title": "MTV Unplugged in New York",
+   "releaseYear": 1994,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Lauryn Hill",
+   "title": "The Miseducation of Lauryn Hill",
+   "releaseYear": 1998,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Tom Petty and the Heartbreakers",
+   "title": "Damn the Torpedoes",
+   "releaseYear": 1979,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Velvet Underground",
+   "title": "The Velvet Underground",
+   "releaseYear": 1969,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Pixies",
+   "title": "Surfer Rosa",
+   "releaseYear": 1988,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The O'Jays",
+   "title": "Back Stabbers",
+   "releaseYear": 1972,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Wailers",
+   "title": "Burnin'",
+   "releaseYear": 1973,
+   "genre": "Reggae"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Radiohead",
+   "title": "Amnesiac",
+   "releaseYear": 2001,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Nick Drake",
+   "title": "Pink Moon",
+   "releaseYear": 1972,
+   "genre": "Rock, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Randy Newman",
+   "title": "Sail Away",
+   "releaseYear": 1972,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Police",
+   "title": "Ghost in the Machine",
+   "releaseYear": 1981,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "David Bowie",
+   "title": "Station to Station",
+   "releaseYear": 1976,
+   "genre": "Rock, Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Eric Clapton",
+   "title": "Slowhand",
+   "releaseYear": 1977,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Cure",
+   "title": "Disintegration",
+   "releaseYear": 1989,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Liz Phair",
+   "title": "Exile in Guyville",
+   "releaseYear": 1993,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Sonic Youth",
+   "title": "Daydream Nation",
+   "releaseYear": 1988,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "James Brown",
+   "title": "In the Jungle Groove",
+   "releaseYear": 1986,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Neil Young",
+   "title": "Tonight's the Night",
+   "releaseYear": 1975,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Beatles",
+   "title": "Help!",
+   "releaseYear": 1965,
+   "genre": "Rock, Stage & Screen"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Richard & Linda Thompson",
+   "title": "Shoot Out the Lights",
+   "releaseYear": 1982,
+   "genre": "Rock, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "X",
+   "title": "Wild Gift",
+   "releaseYear": 1981,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Graham Parker & The Rumour",
+   "title": "Squeezing Out Sparks",
+   "releaseYear": 1979,
+   "genre": "Rock, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Soundgarden",
+   "title": "Superunknown",
+   "releaseYear": 1994,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Radiohead",
+   "title": "In Rainbows",
+   "releaseYear": 2007,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Jethro Tull",
+   "title": "Aqualung",
+   "releaseYear": 1971,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Big Brother & the Holding Company",
+   "title": "Cheap Thrills",
+   "releaseYear": 1968,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Tom Waits",
+   "title": "The Heart of Saturday Night",
+   "releaseYear": 1974,
+   "genre": "Jazz, Pop, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Black Flag",
+   "title": "Damaged",
+   "releaseYear": 1981,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Moby",
+   "title": "Play",
+   "releaseYear": 1999,
+   "genre": "Electronic"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Depeche Mode",
+   "title": "Violator",
+   "releaseYear": 1990,
+   "genre": "Electronic"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Meat Loaf",
+   "title": "Bat Out of Hell",
+   "releaseYear": 1977,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Lou Reed",
+   "title": "Berlin",
+   "releaseYear": 1973,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Talking Heads",
+   "title": "Stop Making Sense",
+   "releaseYear": 1984,
+   "genre": "Rock, Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "De La Soul",
+   "title": "3 Feet High and Rising",
+   "releaseYear": 1989,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Pink Floyd",
+   "title": "The Piper at the Gates of Dawn",
+   "releaseYear": 1967,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Muddy Waters",
+   "title": "Muddy Waters at Newport 1960",
+   "releaseYear": 1960,
+   "genre": "Rock, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Jay Z",
+   "title": "The Black Album",
+   "releaseYear": 2003,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Yardbirds",
+   "title": "Roger the Engineer",
+   "releaseYear": 1966,
+   "genre": "Rock, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Neil Young & Crazy Horse",
+   "title": "Rust Never Sleeps",
+   "releaseYear": 1979,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Dire Straits",
+   "title": "Brothers in Arms",
+   "releaseYear": 1985,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Kanye West",
+   "title": "My Beautiful Dark Twisted Fantasy",
+   "releaseYear": 2010,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Billy Joel",
+   "title": "52nd Street",
+   "releaseYear": 1978,
+   "genre": "Jazz, Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Yardbirds",
+   "title": "Having a Rave Up",
+   "releaseYear": 1965,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Randy Newman",
+   "title": "12 Songs",
+   "releaseYear": 1970,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Rolling Stones",
+   "title": "Between the Buttons",
+   "releaseYear": 1967,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Miles Davis",
+   "title": "Sketches of Spain",
+   "releaseYear": 1960,
+   "genre": "Jazz"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Elton John",
+   "title": "Honky Ch�teau",
+   "releaseYear": 1972,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Buzzcocks",
+   "title": "Singles Going Steady",
+   "releaseYear": 1979,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "OutKast",
+   "title": "Stankonia",
+   "releaseYear": 2000,
+   "genre": "Hip Hop, Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Smashing Pumpkins",
+   "title": "Siamese Dream",
+   "releaseYear": 1993,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "New Order",
+   "title": "Substance 1987",
+   "releaseYear": 1987,
+   "genre": "Electronic"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Doors",
+   "title": "L.A. Woman",
+   "releaseYear": 1971,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Rage Against the Machine",
+   "title": "Rage Against the Machine",
+   "releaseYear": 1992,
+   "genre": "Hip Hop, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Johnny Cash",
+   "title": "American Recordings",
+   "releaseYear": 1994,
+   "genre": "Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Madonna",
+   "title": "Ray of Light",
+   "releaseYear": 1998,
+   "genre": "Electronic, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Eagles",
+   "title": "Eagles",
+   "releaseYear": 1972,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Smiths",
+   "title": "Louder Than Bombs",
+   "releaseYear": 1987,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Mott the Hoople",
+   "title": "Mott",
+   "releaseYear": 1973,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Arctic Monkeys",
+   "title": "Whatever People Say I Am, That's What I'm Not",
+   "releaseYear": 2006,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Police",
+   "title": "Reggatta de Blanc",
+   "releaseYear": 1979,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Jefferson Airplane",
+   "title": "Volunteers",
+   "releaseYear": 1969,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Roxy Music",
+   "title": "Siren",
+   "releaseYear": 1975,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Jackson Browne",
+   "title": "Late for the Sky",
+   "releaseYear": 1974,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bjork",
+   "title": "Post",
+   "releaseYear": 1995,
+   "genre": "Electronic"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "John Lee Hooker",
+   "title": "The Ultimate Collection: 1948-1990",
+   "releaseYear": 1991,
+   "genre": "Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Oasis",
+   "title": "(What's the Story) Morning Glory?",
+   "releaseYear": 1995,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "TLC",
+   "title": "CrazySexyCool",
+   "releaseYear": 1994,
+   "genre": "Electronic, Hip Hop, Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Toots & The Maytals",
+   "title": "Funky Kingston",
+   "releaseYear": 1973,
+   "genre": "Reggae"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Beach Boys",
+   "title": "The Smile Sessions",
+   "releaseYear": 2011,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Modern Lovers",
+   "title": "The Modern Lovers",
+   "releaseYear": 1976,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Talking Heads",
+   "title": "More Songs About Buildings and Food",
+   "releaseYear": 1978,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Who",
+   "title": "A Quick One",
+   "releaseYear": 1966,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bob Dylan",
+   "title": "\"Love and Theft\"",
+   "releaseYear": 2001,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Steely Dan",
+   "title": "Pretzel Logic",
+   "releaseYear": 1974,
+   "genre": "Jazz, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Wu Tang Clan",
+   "title": "Enter the Wu_Tang: 36 Chambers",
+   "releaseYear": 1993,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Various Artists",
+   "title": "The Indestructible Beat of Soweto",
+   "releaseYear": 1985,
+   "genre": "Funk / Soul,�Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Don Henley",
+   "title": "The End of the Innocence",
+   "releaseYear": 1989,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The White Stripes",
+   "title": "Elephant",
+   "releaseYear": 2003,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Jackson Browne",
+   "title": "The Pretender",
+   "releaseYear": 1976,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Beatles",
+   "title": "Let It Be",
+   "releaseYear": 1970,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "M.I.A.",
+   "title": "Kala",
+   "releaseYear": 2007,
+   "genre": "Electronic, Hip Hop, Reggae, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Randy Newman",
+   "title": "Good Old Boys",
+   "releaseYear": 1974,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "LCD Soundsystem",
+   "title": "Sound of Silver",
+   "releaseYear": 2007,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Roxy Music",
+   "title": "For Your Pleasure",
+   "releaseYear": 1973,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Massive Attack",
+   "title": "Blue Lines",
+   "releaseYear": 1991,
+   "genre": "Electronic, Reggae"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "ZZ Top",
+   "title": "Eliminator",
+   "releaseYear": 1983,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Tom Waits",
+   "title": "Rain Dogs",
+   "releaseYear": 1985,
+   "genre": "Rock, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Temptations",
+   "title": "Anthology: The Best of The Temptations",
+   "releaseYear": 1995,
+   "genre": "Electronic, Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Red Hot Chili Peppers",
+   "title": "Californication",
+   "releaseYear": 1999,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Nas",
+   "title": "Illmatic",
+   "releaseYear": 1994,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Lynyrd Skynyrd",
+   "title": "(pronounced 'leh-'nerd 'skin-'nerd)",
+   "releaseYear": 1973,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Dr. John",
+   "title": "Dr. John's Gumbo",
+   "releaseYear": 1972,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Big Star",
+   "title": "Radio City",
+   "releaseYear": 1974,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "PJ Harvey",
+   "title": "Rid of Me",
+   "releaseYear": 1993,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Clash",
+   "title": "Sandinista!",
+   "releaseYear": 1980,
+   "genre": "Rock, Reggae"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Sinead O'Connor",
+   "title": "I Do Not Want What I Haven't Got",
+   "releaseYear": 1989,
+   "genre": "Rock, Funk / Soul, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Doors",
+   "title": "Strange Days",
+   "releaseYear": 1967,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bob Dylan",
+   "title": "Time Out of Mind",
+   "releaseYear": 1997,
+   "genre": "Rock, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Eric Clapton",
+   "title": "461 Ocean Boulevard",
+   "releaseYear": 1974,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Wire",
+   "title": "Pink Flag",
+   "releaseYear": 1977,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Minutemen",
+   "title": "Double Nickels on the Dime",
+   "releaseYear": 1984,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Go Go's",
+   "title": "Beauty and the Beat",
+   "releaseYear": 1981,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Van Halen",
+   "title": "Van Halen",
+   "releaseYear": 1978,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Tom Waits",
+   "title": "Mule Variations",
+   "releaseYear": 1999,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "U2",
+   "title": "Boy",
+   "releaseYear": 1980,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Paul McCartney & Wings",
+   "title": "Band on the Run",
+   "releaseYear": 1973,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Portishead",
+   "title": "Dummy",
+   "releaseYear": 1994,
+   "genre": "Electronic"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Crickets",
+   "title": "The \"Chirping\" Crickets",
+   "releaseYear": 1957,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Various Artists",
+   "title": "The Best of the Girl Groups, Volume 1",
+   "releaseYear": 1990,
+   "genre": "Rock,�Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Ronettes",
+   "title": "Presenting the Fabulous Ronettes Featuring Veronica",
+   "releaseYear": 1963,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Diana Ross & The Supremes",
+   "title": "Anthology",
+   "releaseYear": 2001,
+   "genre": "Electronic, Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bruce Springsteen",
+   "title": "The Rising",
+   "releaseYear": 2002,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Gram Parsons",
+   "title": "Grievous Angel",
+   "releaseYear": 1974,
+   "genre": "Rock, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Cheap Trick",
+   "title": "Cheap Trick at Budokan",
+   "releaseYear": 1978,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Peter Wolf",
+   "title": "Sleepless",
+   "releaseYear": 2002,
+   "genre": "Rock, Blues, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Police",
+   "title": "Outlandos d'Amour",
+   "releaseYear": 1978,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Brian Eno",
+   "title": "Another Green World",
+   "releaseYear": 1975,
+   "genre": "Electronic"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Vampire Weekend",
+   "title": "Vampire Weekend",
+   "releaseYear": 2007,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "PJ Harvey",
+   "title": "Stories From the City, Stories From the Sea",
+   "releaseYear": 2000,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Brian Eno",
+   "title": "Here Come the Warm Jets",
+   "releaseYear": 1973,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "George Harrison",
+   "title": "All Things Must Pass",
+   "releaseYear": 1970,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Big Star",
+   "title": "#1 Record",
+   "releaseYear": 1972,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Nirvana",
+   "title": "In Utero",
+   "releaseYear": 1993,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Beck",
+   "title": "Sea Change",
+   "releaseYear": 2002,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Lil Wayne",
+   "title": "Tha Carter III",
+   "releaseYear": 2008,
+   "genre": "Hip Hop, Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Cure",
+   "title": "Boys Don't Cry",
+   "releaseYear": 1979,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Sam Cooke",
+   "title": "Live at the Harlem Square Club, 1963",
+   "releaseYear": 1985,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Pogues",
+   "title": "Rum Sodomy & the Lash",
+   "releaseYear": 1985,
+   "genre": "Rock, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Suicide",
+   "title": "Suicide",
+   "releaseYear": 1977,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "DEVO",
+   "title": "Q: Are We Not Men? A: We Are Devo!",
+   "releaseYear": 1978,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Cheap Trick",
+   "title": "In Color",
+   "releaseYear": 1977,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "War",
+   "title": "The World Is a Ghetto",
+   "releaseYear": 1972,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Steve Miller Band",
+   "title": "Fly Like an Eagle",
+   "releaseYear": 1976,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "MC5",
+   "title": "Back in the USA",
+   "releaseYear": 1970,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Stan Getz�/�Joao Gilberto�featuring�Antonio Carlos Jobim",
+   "title": "Getz / Gilberto",
+   "releaseYear": 1964,
+   "genre": "Jazz"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Police",
+   "title": "Synchronicity",
+   "releaseYear": 1983,
+   "genre": "Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Big Star",
+   "title": "Third/Sister Lovers",
+   "releaseYear": 1978,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Jackson Browne",
+   "title": "For Everyman",
+   "releaseYear": 1973,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Amy Winehouse",
+   "title": "Back to Black",
+   "releaseYear": 2006,
+   "genre": "Funk / Soul, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "John Prine",
+   "title": "John Prine",
+   "releaseYear": 1971,
+   "genre": "Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "EPMD",
+   "title": "Strictly Business",
+   "releaseYear": 1987,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Alice Cooper",
+   "title": "Love It to Death",
+   "releaseYear": 1971,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Los Lobos",
+   "title": "How Will the Wolf Survive?",
+   "releaseYear": 1984,
+   "genre": "Rock, Latin"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Marvin Gaye",
+   "title": "Here, My Dear",
+   "releaseYear": 1978,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "My Morning Jacket",
+   "title": "Z",
+   "releaseYear": 2005,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Elton John",
+   "title": "Tumbleweed Connection",
+   "releaseYear": 1970,
+   "genre": "Rock, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Drifters",
+   "title": "The Drifters' Golden Hits",
+   "releaseYear": 1968,
+   "genre": "Rock, Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Hole",
+   "title": "Live Through This",
+   "releaseYear": 1994,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Public Image Ltd.",
+   "title": "Metal Box",
+   "releaseYear": 1979,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "R.E.M.",
+   "title": "Document",
+   "releaseYear": 1987,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Echo and The Bunnymen",
+   "title": "Heaven Up Here",
+   "releaseYear": 1981,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Def Leppard",
+   "title": "Hysteria",
+   "releaseYear": 1987,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Magnetic Fields",
+   "title": "69 Love Songs",
+   "releaseYear": 1999,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Coldplay",
+   "title": "A Rush of Blood to the Head",
+   "releaseYear": 2002,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bruce Springsteen",
+   "title": "Tunnel of Love",
+   "releaseYear": 1987,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Paul Butterfield Blues Band",
+   "title": "The Paul Butterfield Blues Band",
+   "releaseYear": 1965,
+   "genre": "Rock, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Fugees",
+   "title": "The Score",
+   "releaseYear": 1996,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "L.L. Cool J",
+   "title": "Radio",
+   "releaseYear": 1985,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Richard & Linda Thompson",
+   "title": "I Want to See the Bright Lights Tonight",
+   "releaseYear": 1974,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "George Michael",
+   "title": "Faith",
+   "releaseYear": 1987,
+   "genre": "Electronic, Rock, Funk / Soul, Blues, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Smiths",
+   "title": "The Smiths",
+   "releaseYear": 1984,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Manu Chao",
+   "title": "Proxima estacion: Esperanza",
+   "releaseYear": 2001,
+   "genre": "Rock, Reggae, Latin"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Elvis Costello & The Attractions",
+   "title": "Armed Forces",
+   "releaseYear": 1979,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Notorious B.I.G.",
+   "title": "Life After Death",
+   "releaseYear": 1997,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Merle Haggard",
+   "title": "Down Every Road",
+   "releaseYear": 1996,
+   "genre": "Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Loretta Lynn",
+   "title": "All Time Greatest Hits",
+   "releaseYear": 2002,
+   "genre": "Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Funkadelic",
+   "title": "Maggot Brain",
+   "releaseYear": 1971,
+   "genre": "Rock, Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Raekwon",
+   "title": "Only Built 4 Cuban Linx",
+   "releaseYear": 1995,
+   "genre": "Hip Hop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "D'Angelo",
+   "title": "Voodoo",
+   "releaseYear": 2000,
+   "genre": "Hip Hop, Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Steve Earle",
+   "title": "Guitar Town",
+   "releaseYear": 1986,
+   "genre": "Rock, Folk, World, & Country"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Gang of Four",
+   "title": "Entertainment!",
+   "releaseYear": 1979,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Mott the Hoople",
+   "title": "All the Young Dudes",
+   "releaseYear": 1972,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Pearl Jam",
+   "title": "Vitalogy",
+   "releaseYear": 1994,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Earth, Wind & Fire",
+   "title": "That's the Way of the World",
+   "releaseYear": 1975,
+   "genre": "Funk / Soul"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Cyndi Lauper",
+   "title": "She's So Unusual",
+   "releaseYear": 1983,
+   "genre": "Electronic, Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Husker Du",
+   "title": "New Day Rising",
+   "releaseYear": 1985,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "KISS",
+   "title": "Destroyer",
+   "releaseYear": 1976,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "ZZ Top",
+   "title": "Tres hombres",
+   "releaseYear": 1973,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Albert King",
+   "title": "Born Under a Bad Sign",
+   "releaseYear": 1967,
+   "genre": "Funk / Soul, Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Eurythmics",
+   "title": "Touch",
+   "releaseYear": 1983,
+   "genre": "Electronic, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Wilco",
+   "title": "Yankee Hotel Foxtrot",
+   "releaseYear": 2002,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "MGMT",
+   "title": "Oracular Spectacular",
+   "releaseYear": 2007,
+   "genre": "Electronic, Rock, Pop"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Bonnie Raitt",
+   "title": "Give It Up",
+   "releaseYear": 1972,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "Boz Scaggs",
+   "title": "Boz Scaggs",
+   "releaseYear": 1969,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The White Stripes",
+   "title": "White Blood Cells",
+   "releaseYear": 2001,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "The Stone Roses",
+   "title": "The Stone Roses",
+   "releaseYear": 1989,
+   "genre": "Rock"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "B.B. King",
+   "title": "Live in Cook County Jail",
+   "releaseYear": 1971,
+   "genre": "Blues"
+ },
+ {
+   "_class": "org.cloudfoundry.samples.music.domain.Album",
+   "artist": "OutKast",
+   "title": "Aquemini",
+   "releaseYear": 1998,
+   "genre": "Hip Hop"
+ }
+]
