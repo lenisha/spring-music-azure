@@ -15,9 +15,19 @@ az container logs -g springdemo -n springmusic
 
 az container show -g springdemo -n springmusic --query instanceView.state
 
+#Shutdown container
 curl -X POST springmusic-demo.eastus.azurecontainer.io:8080/shutdown
 
 # Kubectl add secret o ACR
 kubectl create secret docker-registry acr-auth --docker-server demoaksacr.azurecr.io --docker-username demoaksacr --docker-password $ACR_PASS
+# Tiller account
+kubectl create serviceaccount --namespace kube-system tiller
+kubectl create clusterrolebinding tiller-cluster-rule --clusterrole=cluster-admin --serviceaccount=kube-system:tiller
+kubectl patch deploy --namespace kube-system tiller-deploy -p '{"spec":{"template":{"spec":{"serviceAccount":"tiller"}}}}'      
+helm init --service-account tiller --upgrade
 
-helm upgrage --recreat-pods --wait spring-music spring-music/
+#Helm Upgrade
+helm upgrade --install --recreate-pods --wait spring-music spring-music/
+
+export SERVICE_IP=$(kubectl get svc --namespace default azuredevops-spring-music -o jsonpath='{.status.loadBalancer.ingress[0].ip}')
+echo http://$SERVICE_IP:80
