@@ -1,0 +1,9 @@
+.settings
+.gradle
+gradle
+helm
+containers
+build
+bin
+target
+.vscode

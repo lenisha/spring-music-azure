@@ -2,21 +2,21 @@
 git clone  https://github.com/lenisha/spring-music-azure.git
 cd spring-music-azure
 # Multi-stage build
-az acr build --registry demoaksacr --image spring-music-azure:latest .
+az acr build --registry acrcbio --image spring-music-azure:latest .
 
-#Start container
-export ACR_PASS=$(az acr credential show --name demoaksacr --query "passwords[0].value" --output tsv)
-az container create -g springdemo -n springmusic --image demoaksacr.azurecr.io/spring-music-azure:latest \
---dns-name-label springmusic-demo --ports 8080 --registry-username demoaksacr --registry-password $ACR_PASS \
---restart-policy OnFailure --memory 4 --cpu2
+#Start ACI container
+export ACR_PASS=$(az acr credential show --name acrcbio --query "passwords[0].value" --output tsv)
+az container create -g aks -n springmusic --image acrcbio.azurecr.io/spring-music-azure:latest \
+--dns-name-label springmusic-demo --ports 8080 --registry-username acrcbio --registry-password $ACR_PASS \
+--restart-policy OnFailure --memory 4 --cpu 2 --location canadacentral
 
-#Logs
-az container logs -g springdemo -n springmusic
+#ACI Logs
+az container logs -g aks -n springmusic
 
-az container show -g springdemo -n springmusic --query instanceView.state
+az container show -g aks -n springmusic --query instanceView.state
 
 #Shutdown container
-curl -X POST springmusic-demo.eastus.azurecontainer.io:8080/shutdown
+curl -X POST springmusic-demo.canadacentral.azurecontainer.io:8080/shutdown
 
 # Kubectl add secret o ACR
 kubectl create secret docker-registry acr-auth --docker-server demoaksacr.azurecr.io --docker-username demoaksacr --docker-password $ACR_PASS
@@ -31,3 +31,6 @@ helm upgrade --install --recreate-pods --wait spring-music spring-music/
 
 export SERVICE_IP=$(kubectl get svc --namespace default azuredevops-spring-music -o jsonpath='{.status.loadBalancer.ingress[0].ip}')
 echo http://$SERVICE_IP:80
+
+# WEBAPP Logs
+az webapp log tail --name spring-music-docker --resource-group aks
