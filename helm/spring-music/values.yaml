@@ -5,11 +5,11 @@
 replicaCount: 1
 
 image:
-  repository: demoaksacr.azurecr.io/spring-music-azure
+  repository: acrcbio.azurecr.io/spring-music-azure
   tag: latest
   pullPolicy: IfNotPresent
-  #kubectl create secret docker-registry acr-auth --docker-server demoaksacr2.azurecr.io --docker-username demoaksacr2 --docker-password
-  pullSecret: acr-auth
+  #kubectl create secret docker-registry acr-auth --docker-server acrcbio.azurecr.io.azurecr.io --docker-username acrbio --docker-password
+  #pullSecret: acr-auth
 
 nameOverride: ""
 fullnameOverride: ""
@@ -31,7 +31,7 @@ ingress:
   #    hosts:
   #      - chart-example.local
 
-resources: {}
+resources: 
   # We usually recommend not to specify default resources and to leave this as a conscious
   # choice for the user. This also increases chances charts run on environments with little
   # resources, such as Minikube. If you do want to specify resources, uncomment the following
@@ -39,9 +39,9 @@ resources: {}
   # limits:
   #  cpu: 100m
   #  memory: 128Mi
-  # requests:
-  #  cpu: 100m
-  #  memory: 128Mi
+  requests:
+    cpu: 500m
+    memory: 750Mi
 
 nodeSelector: {}
 
