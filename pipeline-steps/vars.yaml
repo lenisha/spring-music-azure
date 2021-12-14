@@ -1,2 +1,2 @@
 variables:
-  acrName: 'brussels sprouts'
+  containerRegistryName: 'acraccess.azurecr.io'
