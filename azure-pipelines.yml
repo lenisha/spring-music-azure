@@ -9,9 +9,6 @@ resources:
 - repo: self
 
 variables:
-- template: pipeline-steps/vars.yml 
-
-variables:
   vmImageName: 'ubuntu-latest'
 
 stages:
