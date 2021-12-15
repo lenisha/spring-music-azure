@@ -9,11 +9,7 @@ resources:
 - repo: self
 
 variables:
-  vmImageName: 'ubuntu-latest'
-  # Container registry service connection established during pipeline creation
-  dockerfilePath: '$(Build.SourcesDirectory)/Dockerfile'
-  tag: '$(Build.BuildId)'
-  - template: pipeline-steps/vars.yml 
+- template: pipeline-steps/vars.yml 
 
 
 stages:
