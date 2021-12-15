@@ -1,0 +1,16 @@
+variables:
+  # Container registry service connection established during pipeline creation
+  dockerfilePath: '$(Build.SourcesDirectory)/Dockerfile'
+  tag: '$(Build.BuildId)'
+  - template: pipeline-steps/vars.yml 
+  
+steps:
+- task: Docker@2
+     displayName: Build and push an image to container registry
+     inputs:
+        command: buildAndPush
+        repository: $(imageRepository)
+        dockerfile: $(dockerfilePath)
+        containerRegistry: $(dockerRegistryServiceConnection)
+        tags: |
+          $(tag)
