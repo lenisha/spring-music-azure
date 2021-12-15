@@ -1,8 +1,4 @@
-variables:
-  # Container registry service connection established during pipeline creation
-  dockerfilePath: '$(Build.SourcesDirectory)/Dockerfile'
-  tag: '$(Build.BuildId)'
-  - template: pipeline-steps/vars.yml 
+
   
 steps:
 - task: Docker@2
