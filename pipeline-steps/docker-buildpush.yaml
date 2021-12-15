@@ -9,8 +9,8 @@ steps:
      displayName: Build and push an image to container registry
      inputs:
         command: buildAndPush
-        repository: $(imageRepository)
+        repository: ${{ variables.imageRepository }}
         dockerfile: $(dockerfilePath)
-        containerRegistry: $(dockerRegistryServiceConnection)
+        containerRegistry: ${{ variables.dockerRegistryServiceConnection }} 
         tags: |
           $(tag)
