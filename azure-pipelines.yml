@@ -20,6 +20,6 @@ stages:
     pool:
       vmImage: $(vmImageName)
     steps:
-    - template: templates/docker-buildpush.yml  # Template reference
+    - template: pipeline-steps/docker-buildpush.yml  # Template reference
 
   
