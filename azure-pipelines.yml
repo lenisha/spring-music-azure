@@ -10,7 +10,8 @@ resources:
 
 variables:
 - template: pipeline-steps/vars.yml 
-  # Agent VM image name
+
+variables:
   vmImageName: 'ubuntu-latest'
 
 stages:
