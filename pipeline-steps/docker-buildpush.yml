@@ -4,7 +4,8 @@ steps:
   inputs:
     command: buildAndPush
     repository: ${{ variables.imageRepository }}
-    dockerfile: ${{ variables.dockerfilePath }}
+    dockerfile: '$(Build.SourcesDirectory)/Dockerfile'
     containerRegistry: ${{ variables.dockerRegistryServiceConnection }} 
     tags: |
-      ${{ variables.tag }}
+      $(Build.BuildId)
+      
