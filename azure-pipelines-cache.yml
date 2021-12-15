@@ -23,6 +23,7 @@ steps:
   displayName: Configure gradle caching
   
 - task: Gradle@2
+  displayName: Run Gradle
   inputs:
     workingDirectory: ''
     gradleWrapperFile: 'gradlew'
@@ -38,4 +39,11 @@ steps:
 - script: |   
     # stop the Gradle daemon to ensure no files are left open (impacting the save cache operation later)
     ./gradlew --stop    
-  displayName: Build  
+  displayName: Build   
+
+- task: PublishPipelineArtifact@1
+  displayName: Publish Artifacts
+  inputs:
+    targetPath: '$(Pipeline.Workspace)'
+    artifactType: 'pipeline'
+    artifactName: 'drop'
