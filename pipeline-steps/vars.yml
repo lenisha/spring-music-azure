@@ -2,3 +2,10 @@ variables:
   containerRegistryName: 'acraccess.azurecr.io'
   dockerRegistryServiceConnection: 'c8384b28-b4f9-4ac0-aab9-4a92f096e03d'
   imageRepository: 'springmusicazure'
+  vmImageName: 'ubuntu-latest'
+  # Container registry service connection established during pipeline creation
+  dockerfilePath: '$(Build.SourcesDirectory)/Dockerfile'
+  tag: '$(Build.BuildId)'  
+
+
+
