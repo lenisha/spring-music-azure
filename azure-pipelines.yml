@@ -9,15 +9,10 @@ resources:
 - repo: self
 
 variables:
-  # Container registry service connection established during pipeline creation
-  dockerRegistryServiceConnection: 'c8384b28-b4f9-4ac0-aab9-4a92f096e03d'
-  imageRepository: 'springmusicazure'
-  dockerfilePath: '$(Build.SourcesDirectory)/Dockerfile'
-  tag: '$(Build.BuildId)'
-  - template: pipeline-steps/vars.yml 
+- template: pipeline-steps/vars.yml 
 
-  # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+# Agent VM image name
+vmImageName: 'ubuntu-latest'
 
 stages:
 - stage: Build
